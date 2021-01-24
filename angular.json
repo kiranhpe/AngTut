@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "AngDemo"
+  "defaultProject": "AngDemo",
+  "cli": {
+    "analytics": "2fb2f937-5031-4b02-a2ff-0ee05d979d65"
+  }
 }
